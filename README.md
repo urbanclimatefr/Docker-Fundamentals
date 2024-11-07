@@ -1,5 +1,5 @@
 # Docker Fundamnetals
- Docker Course Repo
+ Docker Project Repo
 
 ## Build simple hello world image
 docker build -t hello-world .
